@@ -1,4 +1,4 @@
-## Data Science Using Python
+# Data Science Using Python
 ## NSIC Internship Project (Academic Year 2022–23)
 ## Internship Details
 
